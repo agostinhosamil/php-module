@@ -1,3 +1,3 @@
-# Trouter
+# A library for modularizing php files
 
-A php library for creating and managing router based on the files and directory tree inside the project directory.
+A way for modularizing php scripts and have it as a module wish should be used inside other scripts as the same module object.
